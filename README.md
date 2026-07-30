@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shreya001-glitch/leetcode/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/shreya001-glitch/leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
