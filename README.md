@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shreya001-glitch/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shreya001-glitch/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/shreya001-glitch/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/shreya001-glitch/leetcode/tree/master/0292-nim-game) |
