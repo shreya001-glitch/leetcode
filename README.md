@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/shreya001-glitch/leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/shreya001-glitch/leetcode/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/shreya001-glitch/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/shreya001-glitch/leetcode/tree/master/0162-find-peak-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
