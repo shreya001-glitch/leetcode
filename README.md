@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shreya001-glitch/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shreya001-glitch/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
