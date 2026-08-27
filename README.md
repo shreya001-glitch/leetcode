@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreya001-glitch/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/shreya001-glitch/leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/shreya001-glitch/leetcode/tree/master/0162-find-peak-element) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreya001-glitch/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
