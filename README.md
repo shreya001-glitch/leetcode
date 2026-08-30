@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreya001-glitch/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/shreya001-glitch/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/shreya001-glitch/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shreya001-glitch/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shreya001-glitch/leetcode/tree/master/0162-find-peak-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/shreya001-glitch/leetcode/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
