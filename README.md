@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shreya001-glitch/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Counting
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya001-glitch/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 ## Interactive
 |  |
 | ------- |
