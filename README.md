@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shreya001-glitch/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/shreya001-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shreya001-glitch/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreya001-glitch/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya001-glitch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
