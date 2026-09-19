@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shreya001-glitch/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreya001-glitch/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2540-minimum-common-value](https://github.com/shreya001-glitch/leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shreya001-glitch/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2540-minimum-common-value](https://github.com/shreya001-glitch/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya001-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/shreya001-glitch/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [2540-minimum-common-value](https://github.com/shreya001-glitch/leetcode/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shreya001-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreya001-glitch/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/shreya001-glitch/leetcode/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
