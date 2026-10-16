@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreya001-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreya001-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreya001-glitch/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shreya001-glitch/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreya001-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya001-glitch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -183,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreya001-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
