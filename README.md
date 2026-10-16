@@ -106,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreya001-glitch/leetcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/shreya001-glitch/leetcode/tree/master/0844-backspace-string-compare) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shreya001-glitch/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreya001-glitch/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreya001-glitch/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shreya001-glitch/leetcode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shreya001-glitch/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shreya001-glitch/leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreya001-glitch/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya001-glitch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shreya001-glitch/leetcode/tree/master/0164-maximum-gap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
