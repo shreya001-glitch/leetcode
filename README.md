@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shreya001-glitch/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreya001-glitch/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/shreya001-glitch/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/shreya001-glitch/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/shreya001-glitch/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreya001-glitch/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shreya001-glitch/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreya001-glitch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/shreya001-glitch/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
