@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shreya001-glitch/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shreya001-glitch/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreya001-glitch/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/shreya001-glitch/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/shreya001-glitch/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/shreya001-glitch/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shreya001-glitch/leetcode/tree/master/0326-power-of-three) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shreya001-glitch/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shreya001-glitch/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya001-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shreya001-glitch/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shreya001-glitch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreya001-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreya001-glitch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreya001-glitch/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya001-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shreya001-glitch/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreya001-glitch/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shreya001-glitch/leetcode/tree/master/0392-is-subsequence) |
