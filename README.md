@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreya001-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shreya001-glitch/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shreya001-glitch/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shreya001-glitch/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/shreya001-glitch/leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/shreya001-glitch/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shreya001-glitch/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -175,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shreya001-glitch/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/shreya001-glitch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shreya001-glitch/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/shreya001-glitch/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/shreya001-glitch/leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreya001-glitch/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreya001-glitch/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shreya001-glitch/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreya001-glitch/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
