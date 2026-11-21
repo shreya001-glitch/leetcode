@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shreya001-glitch/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreya001-glitch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreya001-glitch/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shreya001-glitch/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya001-glitch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreya001-glitch/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreya001-glitch/leetcode/tree/master/0283-move-zeroes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya001-glitch/leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/shreya001-glitch/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/shreya001-glitch/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya001-glitch/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shreya001-glitch/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -252,5 +254,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shreya001-glitch/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya001-glitch/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shreya001-glitch/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
